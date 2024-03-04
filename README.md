@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AgustinMusanti
 - 👀 I’m data analyst
 - 🌱 At the same time i´m currently studying Economy at National University of La Plata
-- 💞️ I’m opening to work 
+- 📌 I’m working as a Reporting Analyst at PwC Argentina
 - 📫 How to reach me:
 - Email: agustinmusanti@gmail.com
 - Linkedin: https://www.linkedin.com/in/agustinmusanti/
