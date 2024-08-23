@@ -20,8 +20,8 @@ Check out my portfolio to see some of the projects I’ve worked on: [Agustín's
 
 ## 📫 How to Reach Me
 
-- **Email:** agustinmusanti@gmail.com
 - **LinkedIn:** [Agustín Musanti](https://www.linkedin.com/in/agustinmusanti/)
+- **Email:** agustinmusanti@gmail.com
 
 
 <!---
