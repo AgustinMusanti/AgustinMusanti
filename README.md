@@ -4,15 +4,16 @@
 
 I'm a dedicated Business Intelligence and Data Analyst with over two years of experience in data analysis, reporting, and visualization. I specialize in tools such as SQL and Power BI, and I have a strong working knowledge of Python, Tableau, R, and more.
 
-## 🌱 Current Endeavors
+## 🌱 Continuous Learning
 
-I'm currently pursuing a degree in Economics at the National University of La Plata, enhancing my analytical skills and economic knowledge.
+I'm constantly expanding my skill set in data analysis, staying up to date with the latest tools and methodologies. Additionally, I'm pursuing a degree in Economics at the National University of La Plata to deepen my understanding of economic principles and their application in data-driven decision-making.
 
 ## 📌 Professional Experience
 
-### Reporting Analyst at PwC Argentina
+### Reporting Analyst Ssr at PwC
 - Develop and maintain dynamic reports and dashboards using Power BI to support decision-making processes.
 - Collaborate with cross-functional teams to streamline data pipelines and enhance reporting efficiency.
+
 
 ## 💼 Portfolio
 
