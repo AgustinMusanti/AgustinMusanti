@@ -3,20 +3,23 @@
 <p align="center">A passionate Business Intelligence & Data Analyst from Argentina</p>
 
 
+• I'm currently working as a Reporting Analyst Ssr at PwC  
+• I specialize in Power BI, SQL, and Excel for data analysis and reporting  
+• I'm studying Economics at the National University of La Plata  
+• Check out my portfolio: [Agustín's Portfolio](https://tu-link-aqui.com)  
+• Reach me at: agustinmusanti@gmail.com
 
-> 🔍 I'm currently working as a Reporting Analyst Ssr at PwC  
-> 📊 I specialize in Power BI, SQL, and Excel for data analysis and reporting  
-> 🎓 I'm studying Economics at the National University of La Plata  
-> 📁 Check out my portfolio: [Agustín's Portfolio](https://businessintelligenceportfolio.carrd.co/)
-> 📫 Reach me at: agustinmusanti@gmail.com
+---
 
+<h3 align="left">Connect with me:</h3>
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/agustinmusanti/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="agustinmusanti-linkedin" />
+  </a>
+</p>
 
-### Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustinmusanti/)
-
-
+---
 
 ### 🧰 Languages and Tools:
 
@@ -27,9 +30,10 @@
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
-  <img src="https://img.shields.io/badge/Stata-003B6F?style=for-thebadge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjAiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCA2MCAyMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMuZ…)" alt="Stata"/>
+  <img src="https://img.shields.io/badge/Stata-003B6F?style=for-the-badge&logoColor=white&label=Stata" alt="Stata (text only)"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
 </p>
+
 
 
 <!---
