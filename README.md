@@ -2,21 +2,21 @@
 
 <p align="center">A passionate Business Intelligence & Data Analyst from Argentina</p>
 
----
+--
 
 > 🔍 I'm currently working as a Reporting Analyst Ssr at PwC  
 > 📊 I specialize in Power BI, SQL, and Excel for data analysis and reporting  
 > 🎓 I'm studying Economics at the National University of La Plata  
-> 📁 Check out my portfolio: [Agustín's Portfolio](https://businessintelligenceportfolio.carrd.co/) 
+> 📁 Check out my portfolio: [Agustín's Portfolio](https://businessintelligenceportfolio.carrd.co/)
 > 📫 Reach me at: agustinmusanti@gmail.com
 
----
+--
 
 ### Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustinmusanti/)
 
----
+--
 
 ### 🧰 Languages and Tools:
 
