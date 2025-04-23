@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Agustín</h1>
+<h1 align="center">Hi 👋, I'm Agustín</h1>
 
 <p align="center">A passionate Business Intelligence & Data Analyst from Argentina</p>
 
