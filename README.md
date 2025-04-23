@@ -11,7 +11,7 @@ Check out my portfolio to see real-world use cases and dashboards: [Agustín's P
 
 📫 Reach Out:  
 📧 agustinmusanti@gmail.com  
-💼 [LinkedIN](https://www.linkedin.com/in/agustinmusanti/)
+💼 [LinkedIn](https://www.linkedin.com/in/agustinmusanti/)
 
 
 🧰 Languages & Tools:
