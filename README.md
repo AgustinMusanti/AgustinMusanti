@@ -9,7 +9,7 @@
 • 📁 Check out my portfolio: [Agustín's Portfolio](https://businessintelligenceportfolio.carrd.co/)  
 • 📫 Reach me at: agustinmusanti@gmail.com
 
----
+
 
 <h3 align="left">Connect with me:</h3>
 
@@ -19,7 +19,7 @@
   </a>
 </p>
 
----
+
 
 ### 🧰 Languages and Tools:
 
