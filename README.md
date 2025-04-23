@@ -5,15 +5,14 @@ I'm a passionate Business Intelligence and Data Analyst with 2+ years of experie
 
 🎓 I'm currently studying Economics at the National University of La Plata, combining technical data skills with a solid understanding of economic theory.
 
-📌 Featured Projects:  
+📌 Featured Projects:
+
 Check out my portfolio to see real-world use cases and dashboards: [Agustín's Portfolio](https://businessintelligenceportfolio.carrd.co/)
 
 📫 Reach Out:  
 📧 agustinmusanti@gmail.com  
-💼 [Agustín Musanti](https://www.linkedin.com/in/agustinmusanti/)
+💼 [LinkedIN](https://www.linkedin.com/in/agustinmusanti/)
 
-
----
 
 🧰 Languages & Tools:
 
