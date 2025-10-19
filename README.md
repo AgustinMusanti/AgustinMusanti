@@ -4,7 +4,7 @@
 
 
 • 🔍 I'm currently working as a Reporting Analyst Ssr at PwC  
-• 📊 I specialize in Power BI, SQL, and Excel for data analysis and reporting  
+• 📊 I specialize in Power BI, SQL, Python and Excel for data analysis and reporting  
 • 🎓 I'm studying Economics at the National University of La Plata  
 • 📁 Check out my portfolio: [Agustín's Portfolio](https://businessintelligenceportfolio.carrd.co/)  
 • 📫 Reach me at: agustinmusanti@gmail.com
