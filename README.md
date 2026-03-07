@@ -27,13 +27,13 @@
 <li>
 <b>📈 Finanzas con Python</b><br>
 Collection of financial analysis tools and simulations built in Python (yield calculations, projections and financial models).<br>
-<a href="https://github.com/AgustinMusanti/finanzas-con-python">View Repository</a>
+<a href="https://github.com/AgustinMusanti/FinanzasConPython">View Repository</a>
 </li>
 
 <li>
 <b>🏦 Credit Risk Database (SQL)</b><br>
 Relational database design for credit risk analysis in financial institutions.<br>
-<a href="https://github.com/AgustinMusanti/gestion_riesgo_crediticio">View Repository</a>
+<a href="https://github.com/AgustinMusanti/gestion_riesgo_crediticio-agustin-musanti">View Repository</a>
 </li>
 
 <li>
