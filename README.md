@@ -1,13 +1,25 @@
 <h1 align="center">Hi 👋, I'm Agustín</h1>
 
-<p align="center">A passionate Business Intelligence & Data Analyst from Argentina</p>
+<p align="center">Business & Data Analyst focused on turning data into insights for decision-making in finance and business.
+</p>
 
+🔎 Currently working as **Senior Reporting Analyst at PwC**
 
-• 🔍 I'm currently working as a Sr Reporting Analyst at PwC  
-• 📊 I specialize in Power BI, SQL, Python and Excel for data analysis and reporting  
-• 🎓 I'm studying Economics at the National University of La Plata  
-• 📁 Check out my portfolio: [Agustín's Portfolio](https://businessintelligenceportfolio.carrd.co/)  
-• 📫 Reach me at: agustinmusanti@gmail.com
+📊 I work with data to:
+- analyze business performance
+- build reporting and analytical tools
+- support financial and operational decision making
+
+🎓 Economics student at the **National University of La Plata**
+
+🚀 Interests:
+- Financial analytics
+- Fintech & digital products
+- Data applied to business decisions
+
+📂 Portfolio: [Agustín's Portfolio](https://businessintelligenceportfolio.carrd.co/)
+
+📫 Contact: agustinmusanti@gmail.com 
 
 
 
