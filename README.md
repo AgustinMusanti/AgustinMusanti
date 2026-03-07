@@ -3,25 +3,45 @@
 <p align="center">Business & Data Analyst focused on turning data into insights for decision-making in finance and business.
 </p>
 
-🔎 Currently working as **Senior Reporting Analyst at PwC**
+🔎 Currently working as <b>Senior Reporting Analyst at PwC</b>
 
-📊 I work with data to:
-- analyze business performance
-- build reporting and analytical tools
-- support financial and operational decision making
-
-🎓 Economics student at the **National University of La Plata**
+📊 What I build with data:
+- analyze business performance  
+- build reporting and analytical tools  
+- support financial and operational decision making  
 
 🚀 Interests:
-- Financial analytics
-- Fintech & digital products
-- Data applied to business decisions
+- Financial analytics  
+- Fintech & digital products  
+- Data applied to business decisions  
 
-📂 Portfolio: [Agustín's Portfolio](https://businessintelligenceportfolio.carrd.co/)
+📂 Portfolio: <a href="https://businessintelligenceportfolio.carrd.co/">Agustín's Portfolio</a>  
 
-📫 Contact: agustinmusanti@gmail.com 
+📫 Contact: agustinmusanti@gmail.com
 
 
+
+<h3 align="left">🚀 Selected Projects:</h3>
+
+<ul>
+<li>
+<b>📈 Finanzas con Python</b><br>
+Collection of financial analysis tools and simulations built in Python (yield calculations, projections and financial models).<br>
+<a href="https://github.com/AgustinMusanti/finanzas-con-python">View Repository</a>
+</li>
+
+<li>
+<b>🏦 Credit Risk Database (SQL)</b><br>
+Relational database design for credit risk analysis in financial institutions.<br>
+<a href="https://github.com/AgustinMusanti/gestion_riesgo_crediticio">View Repository</a>
+</li>
+
+<li>
+<b>📊 DAX Measures Library</b><br>
+Collection of reusable DAX measures for Power BI focused on business analytics.<br>
+<a href="https://github.com/AgustinMusanti/DaxPowerBI">View Repository</a>
+</li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 
@@ -30,8 +50,6 @@
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="agustinmusanti-linkedin" />
   </a>
 </p>
-
-
 
 ### 🧰 Languages and Tools:
 
