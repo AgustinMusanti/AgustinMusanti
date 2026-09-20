@@ -3,7 +3,7 @@
 <p align="center">Data Analyst evolving into Data Science. I turn data into insights for decision-making in finance, business and agriculture.
 </p>
 
-🔎 Currently working as <b>Senior Reporting Analyst at PwC</b>
+🔎 Currently working as <b>Senior Data & Reporting Analyst at PwC</b>
 
 📊 What I do with data:
 - Build reporting and analytical tools
