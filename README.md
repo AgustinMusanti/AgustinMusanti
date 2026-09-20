@@ -15,7 +15,7 @@
 - Financial analytics
 - Fintech & digital products
 
-📂 Portfolio: <a href="https://businessintelligenceportfolio.carrd.co/">Agustín's Portfolio</a>
+📂 Portfolio: <a href="[https://businessintelligenceportfolio.carrd.co/](https://agustinmusanti.carrd.co/)">Agustín's Portfolio</a>
 
 📫 Contact: agustinmusanti@gmail.com
 
