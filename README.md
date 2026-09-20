@@ -43,12 +43,6 @@ Relational database design for credit risk analysis in financial institutions.<b
 <a href="https://github.com/AgustinMusanti/gestion_riesgo_crediticio-agustin-musanti">View Repository</a>
 </li>
 
-<li>
-<b>📊 DAX Measures Library</b><br>
-Collection of reusable DAX measures for Power BI focused on business analytics.<br>
-<a href="https://github.com/AgustinMusanti/DaxPowerBI">View Repository</a>
-</li>
-</ul>
 
 <h3 align="left">Connect with me:</h3>
 
