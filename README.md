@@ -1,67 +1,110 @@
-<h1 align="center">Hi 👋, I'm Agustín</h1>
+<div align="center">
 
-<p align="center">Data Analyst evolving into Data Science. I turn data into insights for decision-making in finance, business and agriculture.
-</p>
+# Agustín Musanti
 
-🔎 Currently working as <b>Senior Data & Reporting Analyst at PwC</b>
+**Data & Reporting Analyst** · **Python & SQL** · **BI & Automation**
 
-📊 What I do with data:
-- Build reporting and analytical tools
-- Develop predictive models with real-world data
-- Support financial and operational decision-making
+Transformo datos en decisiones. Construyo reportes, automatizaciones y modelos predictivos
+aplicados a finanzas, agronegocios e industria.
 
-🚀 Interests:
-- Data Science applied to agribusiness
-- Financial analytics
-- Fintech & digital products
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustinmusanti/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=google-chrome&logoColor=white)](https://agustinmusanti.carrd.co/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:agustinmusanti@gmail.com)
 
-📂 Portfolio: <a href="https://agustinmusanti.carrd.co/">Agustín's Portfolio</a>
+</div>
 
-📫 Contact: agustinmusanti@gmail.com
+---
 
+### About me
 
+- 🏢 **Senior Associate – Data & Reporting Analyst** at PwC Argentina
+- 📊 I build dashboards, automate reporting pipelines, and develop tools used across 6+ countries
+- 🤖 Active user and builder with **AI tools** — I integrate LLMs and copilots into my daily workflows to accelerate analysis, coding and documentation
+- 🌾 Passionate about applying data to **agribusiness**, **finance** and **process optimization**
 
-<h3 align="left">🚀 Selected Projects:</h3>
+---
 
-<ul>
+### Tech Stack
 
-<li>
-<b>🌱 Predicción de Rendimiento de Soja (Data Science)</b><br>
-Soybean yield prediction using satellite imagery (NDVI MODIS), climate data (NASA POWER) and Random Forest. Walk-forward temporal validation on 25 crop seasons in NW Buenos Aires.<br>
-<a href="https://github.com/AgustinMusanti/prediccion-rinde-soja">View Repository</a>
-</li>
+| Area | Tools |
+|---|---|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Data & ML** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Google Earth Engine](https://img.shields.io/badge/Earth%20Engine-4285F4?style=flat-square&logo=google-earth&logoColor=white) |
+| **BI & Viz** | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) |
+| **Databases** | ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
+| **Automation & AI** | ![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white) ![Copilot Studio](https://img.shields.io/badge/Copilot%20Studio-7B83EB?style=flat-square&logo=microsoft&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white) |
 
-<li>
-<b>📈 Finanzas con Python</b><br>
-Collection of financial analysis tools and simulations built in Python (yield calculations, projections and financial models).<br>
-<a href="https://github.com/AgustinMusanti/FinanzasConPython">View Repository</a>
-</li>
+---
 
-<li>
-<b>🏦 Credit Risk Database (SQL)</b><br>
-Relational database design for credit risk analysis in financial institutions.<br>
-<a href="https://github.com/AgustinMusanti/gestion_riesgo_crediticio-agustin-musanti">View Repository</a>
-</li>
+### Featured Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<h3 align="left">Connect with me:</h3>
+#### 🌱 [Soybean Yield Prediction](https://github.com/AgustinMusanti/prediccion-rinde-soja)
+Early-season soybean yield estimation for NW Buenos Aires using **MODIS NDVI** satellite imagery, **NASA POWER** climate data, and **Random Forest** with walk-forward temporal validation across 25 crop seasons.
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/agustinmusanti/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="agustinmusanti-linkedin" />
-  </a>
-</p>
+`python` `scikit-learn` `remote-sensing` `agribusiness`
 
-### 🧰 Languages and Tools:
+</td>
+<td width="50%" valign="top">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=google-earth&logoColor=white" alt="Google Earth Engine"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
-</p>
+#### 📈 [Finanzas con Python](https://github.com/AgustinMusanti/FinanzasConPython)
+Collection of financial analysis tools and simulations: yield calculations, bond analytics, projections and financial models built for real-world asset analysis.
+
+`python` `finance` `simulation` `analytics`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🏦 [SQL Finance Mini Cases](https://github.com/AgustinMusanti/SQL-Finance-Mini-Cases)
+Practical SQL case studies covering cash flow analysis, customer churn, cohort analysis, profitability metrics and other business KPIs.
+
+`sql` `t-sql` `finance` `business-analytics`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🗄️ [Credit Risk Database](https://github.com/AgustinMusanti/gestion_riesgo_crediticio-agustin-musanti)
+Relational database design for credit risk management in financial institutions — views, stored procedures and analytical queries. **Top 10** in Coderhouse SQL course.
+
+`sql` `mysql` `database-design` `risk`
+
+</td>
+</tr>
+</table>
+
+> 📌 *Check my [pinned repos](https://github.com/AgustinMusanti) below for more — including an installment payment tracker and weekly Python challenges.*
+
+---
+
+### What I bring to the table
+
+```text
+📊 Reporting       Dashboards used by partners and regional leadership across 6 countries
+⚙️ Automation      Python + Power Automate pipelines saving 25+ hours/week for my team
+🤖 AI Integration  Co-developed an AI agent (Copilot Studio) used firm-wide
+📐 Process Design  End-to-end rethinking of reporting workflows before automating them
+```
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AgustinMusanti&show_icons=true&theme=default&hide_border=true&count_private=true" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgustinMusanti&layout=compact&theme=default&hide_border=true" height="160" />
+
+</div>
+
+---
+
+<div align="center">
+
+*I leverage AI daily — not as a shortcut, but as a multiplier for better analysis and faster iteration.*
+
+**La Plata, Argentina** 🇦🇷
+
+</div>
