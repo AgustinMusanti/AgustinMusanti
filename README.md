@@ -4,8 +4,8 @@
 
 **Data & Reporting Analyst** · **Python & SQL** · **BI & Automation**
 
-Transformo datos en decisiones. Construyo reportes, automatizaciones y modelos predictivos
-aplicados a finanzas, agronegocios e industria.
+I turn data into decisions. I build reports, automations and predictive models
+applied to finance, agribusiness and industry.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustinmusanti/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=google-chrome&logoColor=white)](https://agustinmusanti.carrd.co/)
@@ -20,7 +20,8 @@ aplicados a finanzas, agronegocios e industria.
 - 🏢 **Senior Associate – Data & Reporting Analyst** at PwC Argentina
 - 📊 I build dashboards, automate reporting pipelines, and develop tools used across 6+ countries
 - 🤖 Active user and builder with **AI tools** — I integrate LLMs and copilots into my daily workflows to accelerate analysis, coding and documentation
-- 🌾 Passionate about applying data to **agribusiness**, **finance** and **process optimization**
+- 🔧 Learning by doing — I pick real problems and build solutions with whatever tools get the job done
+- 🌾 Interested in applying data to **agribusiness**, **finance** and **process optimization**
 
 ---
 
@@ -30,9 +31,9 @@ aplicados a finanzas, agronegocios e industria.
 |---|---|
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 | **Data & ML** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Google Earth Engine](https://img.shields.io/badge/Earth%20Engine-4285F4?style=flat-square&logo=google-earth&logoColor=white) |
-| **BI & Viz** | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) |
-| **Databases** | ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
-| **Automation & AI** | ![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white) ![Copilot Studio](https://img.shields.io/badge/Copilot%20Studio-7B83EB?style=flat-square&logo=microsoft&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white) |
+| **BI & Viz** | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=looker&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) |
+| **Databases** | ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white) |
+| **Automation & AI** | ![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![Copilot Studio](https://img.shields.io/badge/Copilot%20Studio-7B83EB?style=flat-square&logo=microsoft&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white) |
 
 ---
 
@@ -51,7 +52,7 @@ Early-season soybean yield estimation for NW Buenos Aires using **MODIS NDVI** s
 <td width="50%" valign="top">
 
 #### 📈 [Finanzas con Python](https://github.com/AgustinMusanti/FinanzasConPython)
-Collection of financial analysis tools and simulations: yield calculations, bond analytics, projections and financial models built for real-world asset analysis.
+Financial analysis tools and simulations: yield calculations, bond analytics, projections and models built for real-world asset analysis.
 
 `python` `finance` `simulation` `analytics`
 
@@ -69,7 +70,7 @@ Practical SQL case studies covering cash flow analysis, customer churn, cohort a
 <td width="50%" valign="top">
 
 #### 🗄️ [Credit Risk Database](https://github.com/AgustinMusanti/gestion_riesgo_crediticio-agustin-musanti)
-Relational database design for credit risk management in financial institutions — views, stored procedures and analytical queries. **Top 10** in Coderhouse SQL course.
+Relational database design for credit risk management in financial institutions — views, stored procedures and analytical queries.
 
 `sql` `mysql` `database-design` `risk`
 
